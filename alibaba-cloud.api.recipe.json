@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "repository": "alibaba-cloud.api",
+  "providerType": "api",
+  "id": "api_alibaba_cloud",
+  "title": "Alibaba Cloud Model Studio",
+  "protocol": "openai",
+  "baseUrl": "https://dashscope-intl.aliyuncs.com/compatible-mode/v1",
+  "setupInstructions": "Choose the base URL for your region or workspace and enter its Model Studio API key and model ID."
+}
